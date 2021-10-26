@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+<!-- insert your AIML categories here -->
+
+<category>
+	<pattern>HOLA</pattern>
+	<template>Hola bienvenido a La esquina del sabor By "Six Los Cocos" ¿Qué quiere saber sobre nosotros?</template>
+</category>
+
+
+
+<category>
+    <pattern>¿En dónde se encuentran </pattern>
+    <template>Nos encontramos en la Calle 21 197A, Vergel III, C.P. 97173.
+<link>
+    <text>Encuentranos aquí</text>
+    <url>https://goo.gl/maps/fUwfs8Aa5wdZ5RXs6</url>
+</link>
+</template>
+</category>
+
+<category><pattern>En dónde se encuentran</pattern><template><srai>¿EN DÓNDE SE ENCUENTRAN </srai></template></category>
+<category><pattern>En donde se encuentran</pattern><template><srai>¿EN DÓNDE SE ENCUENTRAN </srai></template></category>
+<category><pattern>en dónde se encuentran</pattern><template><srai>¿EN DÓNDE SE ENCUENTRAN </srai></template></category>
+<category><pattern>en donde se encuentran</pattern><template><srai>¿EN DÓNDE SE ENCUENTRAN </srai></template></category>
+
+
+
+
+
+<category>
+    <pattern>¿Cuentan con servicio a domicilio </pattern>
+    <template>Claro, contamos con servicio a domicilio:
+
+$25.00 zonas cercanas (2-3 km)
+$35.00 Zonas más alejadas (4-5 km)
+</template>
+</category>
+
+<category><pattern>Cuentan con servicio a domicilio</pattern><template><srai>¿CUENTAN CON SERVICIO A DOMICILIO </srai></template></category>
+<category><pattern>cuentan con servicio a domicilio </pattern><template><srai>¿CUENTAN CON SERVICIO A DOMICILIO </srai></template></category>
+<category><pattern>¿Cuenta con servicio a domicilio </pattern><template><srai>¿CUENTAN CON SERVICIO A DOMICILIO </srai></template></category>
+<category><pattern>Cuenta con servicio a domicilio  </pattern><template><srai>¿CUENTAN CON SERVICIO A DOMICILIO </srai></template></category>
+<category><pattern>cuenta con servicio a domicilio </pattern><template><srai>¿CUENTAN CON SERVICIO A DOMICILIO </srai></template></category>
+
+<category>
+    <pattern>¿En qué horarios están disponibles </pattern>
+    <template>Nuestra sucursal:
+Lunes a sábado de 10 AM a 10 PM
+Domingos de 11 AM a 5 PM</template>
+</category>
+
+<category><pattern>En qué horarios están disponibles</pattern><template><srai>¿EN QUÉ HORARIOS ESTÁN DISPONIBLES </srai></template></category>
+<category><pattern>En que horarios están disponibles</pattern><template><srai>¿EN QUÉ HORARIOS ESTÁN DISPONIBLES </srai></template></category>
+<category><pattern>En qué horarios estan disponibles</pattern><template><srai>¿EN QUÉ HORARIOS ESTÁN DISPONIBLES </srai></template></category>
+<category><pattern>En que horarios estan disponibles</pattern><template><srai>¿EN QUÉ HORARIOS ESTÁN DISPONIBLES </srai></template></category>
+<category><pattern>en qué horarios están disponibles</pattern><template><srai>¿EN QUÉ HORARIOS ESTÁN DISPONIBLES </srai></template></category>
+<category><pattern>¿en qué horarios están disponibles </pattern><template><srai>¿EN QUÉ HORARIOS ESTÁN DISPONIBLES </srai></template></category>
+<category><pattern>en que horarios estan disponibles</pattern><template><srai>¿EN QUÉ HORARIOS ESTÁN DISPONIBLES </srai></template></category>
+
+<category>
+    <pattern>¿En dónde puedo realizar mi pedido </pattern>
+    <template>Puedes preguntarnos directamente por la App de Facebook o contactarnos por WhatsApp a través del número 9991446409.
+
+</template>
+</category>
+
+<category><pattern>En dónde puedo realizar mi pedido </pattern><template><srai>¿EN DÓNDE PUEDO REALIZAR MI PEDIDO </srai></template></category>
+<category><pattern>En donde puedo realizar mi pedido</pattern><template><srai>¿EN DÓNDE PUEDO REALIZAR MI PEDIDO </srai></template></category>
+<category><pattern>en dónde puedo realizar mi pedido </pattern><template><srai>¿EN DÓNDE PUEDO REALIZAR MI PEDIDO </srai></template></category>
+<category><pattern>en donde puedo realizar mi pedido </pattern><template><srai>¿EN DÓNDE PUEDO REALIZAR MI PEDIDO </srai></template></category>
+
+<category>
+    <pattern>¿Tienen días inhábiles </pattern>
+    <template>Para ofrecer un mejor trato a nuestros clientes nos encontrarás trabajando todos los días, incluso en días festivos Six "Los Cocos" estará para ti.</template>
+</category>
+
+<category><pattern>Tienen días inhábiles</pattern><template><srai>¿TIENEN DÍAS INHÁBILES </srai></template></category>
+<category><pattern>Tienen días inhabiles</pattern><template><srai>¿TIENEN DÍAS INHÁBILES </srai></template></category>
+<category><pattern>Tienen dias inhábiles</pattern><template><srai>¿TIENEN DÍAS INHÁBILES </srai></template></category>
+<category><pattern>Tienen dias inhabiles</pattern><template><srai>¿TIENEN DÍAS INHÁBILES </srai></template></category>
+<category><pattern>tienen días inhábiles</pattern><template><srai>¿TIENEN DÍAS INHÁBILES </srai></template></category>
+
+<category>
+    <pattern>¿Qué cerveza tienen </pattern>
+    <template>Manejamos: Superior, TKT light y roja, sol, XX laguer ultra, Amster ultra, indio y Heineken.</template>
+</category>
+
+<category><pattern>Qué cerveza tienen </pattern><template><srai>¿QUÉ CERVEZA TIENEN </srai></template></category>
+<category><pattern>qué cerveza tienen</pattern><template><srai>¿QUÉ CERVEZA TIENEN </srai></template></category>
+<category><pattern>¿qué cerveza tienen  </pattern><template><srai>¿QUÉ CERVEZA TIENEN </srai></template></category>
+<category><pattern>¿Qué cerveza tiene </pattern><template><srai>¿QUÉ CERVEZA TIENEN </srai></template></category>
+<category><pattern>qué cerveza tiene</pattern><template><srai>¿QUÉ CERVEZA TIENEN </srai></template></category>
+<category><pattern>¿Qué cerveza maneja </pattern><template><srai>¿QUÉ CERVEZA TIENEN </srai></template></category>
+<category><pattern>Que cerveza maneja</pattern><template><srai>¿QUÉ CERVEZA TIENEN </srai></template></category>
+<category><pattern>qué cerveza maneja</pattern><template><srai>¿QUÉ CERVEZA TIENEN </srai></template></category>
+<category><pattern>¿qué cerveza maneja </pattern><template><srai>¿QUÉ CERVEZA TIENEN </srai></template></category>
+<category><pattern>que cerveza tienen</pattern><template><srai>¿QUÉ CERVEZA TIENEN </srai></template></category>
+<category><pattern>que cerveza maneja</pattern><template><srai>¿QUÉ CERVEZA TIENEN </srai></template></category>
+<category><pattern>¿que cerveza tienen </pattern><template><srai>¿QUÉ CERVEZA TIENEN </srai></template></category>
+<category><pattern>¿que cerveza maneja </pattern><template><srai>¿QUÉ CERVEZA TIENEN </srai></template></category>
+
+<category>
+    <pattern>¿Venden productos corona </pattern>
+    <template>No, la corona y la superior son dos compañías diferentes y por lo tanto no pueden vender productos que no sean suyos.</template>
+</category>
+
+<category><pattern>Venden productos corona </pattern><template><srai>¿VENDEN PRODUCTOS CORONA </srai></template></category>
+<category><pattern>Venden productos Corona</pattern><template><srai>¿VENDEN PRODUCTOS CORONA </srai></template></category>
+<category><pattern>venden productos corona </pattern><template><srai>¿VENDEN PRODUCTOS CORONA </srai></template></category>
+<category><pattern>Vende productos corona </pattern><template><srai>¿VENDEN PRODUCTOS CORONA </srai></template></category>
+<category><pattern>¿Vende productos corona </pattern><template><srai>¿VENDEN PRODUCTOS CORONA </srai></template></category>
+<category><pattern>venden productos corona </pattern><template><srai>¿VENDEN PRODUCTOS CORONA </srai></template></category>
+<category><pattern>Venden productos Corona </pattern><template><srai>¿VENDEN PRODUCTOS CORONA </srai></template></category>
+
+<category>
+    <pattern>¿Vende Four Loko </pattern>
+    <template>Sí, en sus 3 verciones: Blue, Gold y Platinium. Solo disponibles en latas medianas.</template>
+</category>
+
+<category><pattern>Vende Four Loko</pattern><template><srai>¿VENDE FOUR LOKO </srai></template></category>
+<category><pattern>Vende four loko</pattern><template><srai>¿VENDE FOUR LOKO </srai></template></category>
+<category><pattern>vende four loko</pattern><template><srai>¿VENDE FOUR LOKO </srai></template></category>
+<category><pattern>Vende FourLoko</pattern><template><srai>¿VENDE FOUR LOKO </srai></template></category>
+<category><pattern>vende fourloko</pattern><template><srai>¿VENDE FOUR LOKO </srai></template></category>
+
+<category>
+    <pattern>¿Venden Marinela </pattern>
+    <template>No, nuestra sucursal no tiene los permisos de adquisición de dicha compañía.</template>
+</category>
+
+<category><pattern>¿Vende Marinela </pattern><template><srai>¿VENDEN MARINELA </srai></template></category>
+<category><pattern>Vende marinela</pattern><template><srai>¿VENDEN MARINELA </srai></template></category>
+<category><pattern>vende Marinela</pattern><template><srai>¿VENDEN MARINELA </srai></template></category>
+<category><pattern>venden marinela</pattern><template><srai>¿VENDEN MARINELA </srai></template></category>
+<category><pattern>¿Vende productos Marinela </pattern><template><srai>¿VENDEN MARINELA </srai></template></category>
+<category><pattern>Vende productos marinela</pattern><template><srai>¿VENDEN MARINELA </srai></template></category>
+<category><pattern>vende productos Marinela</pattern><template><srai>¿VENDEN MARINELA </srai></template></category>
+<category><pattern>vende productos marinela</pattern><template><srai>¿VENDEN MARINELA </srai></template></category>
+<category><pattern>Vende Productos Marinela</pattern><template><srai>¿VENDEN MARINELA </srai></template></category>
+
+
+<category><pattern>Venden Marinela</pattern><template><srai>¿VENDEN MARINELA </srai></template></category>
+<category><pattern>venden Marinela</pattern><template><srai>¿VENDEN MARINELA </srai></template></category>
+<category><pattern>Venden marinela</pattern><template><srai>¿VENDEN MARINELA </srai></template></category>
+<category><pattern>venden marinela</pattern><template><srai>¿VENDEN MARINELA </srai></template></category>
+<category><pattern>¿Venden productos Marinela </pattern><template><srai>¿VENDEN MARINELA </srai></template></category>
+<category><pattern>Venden productos Marinela</pattern><template><srai>¿VENDEN MARINELA </srai></template></category>
+<category><pattern>Venden productos marinela</pattern><template><srai>¿VENDEN MARINELA </srai></template></category>
+<category><pattern>venden productos Marinela</pattern><template><srai>¿VENDEN MARINELA </srai></template></category>
+<category><pattern>venden productos marinela</pattern><template><srai>¿VENDEN MARINELA </srai></template></category>
+<category><pattern>Venden Productos Marinela</pattern><template><srai>¿VENDEN MARINELA </srai></template></category>
+
+<category>
+    <pattern>¿Prestan envases de cerveza </pattern>
+    <template>No, Por política de la superior no podemos hacer préstamos de envases, pero se pueden rentar envases o lo que se conoce como "Depósito".</template>
+</category>
+
+<category><pattern>Presta envases de cerveza</pattern><template><srai>¿PRESTAN ENVASES DE CERVEZA </srai></template></category>
+<category><pattern>presta envases de cerveza</pattern><template><srai>¿PRESTAN ENVASES DE CERVEZA </srai></template></category>
+
+
+<category><pattern>Prestan envases de cerveza</pattern><template><srai>¿PRESTAN ENVASES DE CERVEZA </srai></template></category>
+<category><pattern>prestan envases de cerveza</pattern><template><srai>¿PRESTAN ENVASES DE CERVEZA </srai></template></category>
+
+<category>
+    <pattern>¿Qué promociones se encuentran vigentes </pattern>
+    <template>Se cuenta con las promociones permanentes de TKT light y roja y cerveza Sol de 2 caguamas por $59, Laguer 2 caguamas por $61 y Superior 2 caguamas por $51.</template>
+</category>
+
+<category><pattern>Qué promociones se encuentran vigentes </pattern><template><srai>¿QUÉ PROMOCIONES SE ENCUENTRAN VIGENTES </srai></template></category>
+<category><pattern>Que promociones se encuentran vigentes </pattern><template><srai>¿QUÉ PROMOCIONES SE ENCUENTRAN VIGENTES </srai></template></category>
+<category><pattern>qué promociones se encuentran vigentes</pattern><template><srai>¿QUÉ PROMOCIONES SE ENCUENTRAN VIGENTES </srai></template></category>
+<category><pattern>que promociones se encuentran vigentes  </pattern><template><srai>¿QUÉ PROMOCIONES SE ENCUENTRAN VIGENTES </srai></template></category>
+
+<category>
+    <pattern>¿Hay alguna promoción de refrescos </pattern>
+    <template>Únicamente se cuenta con la promoción de 2 aguas de 1L por $20.</template>
+</category>
+
+<category><pattern>Hay alguna promoción de refrescos </pattern><template><srai>¿HAY ALGUNA PROMOCIÓN DE REFRESCOS </srai></template></category>
+<category><pattern>Hay alguna promocion de refrescos </pattern><template><srai>¿HAY ALGUNA PROMOCIÓN DE REFRESCOS </srai></template></category>
+<category><pattern>hay alguna promoción de refrescos </pattern><template><srai>¿HAY ALGUNA PROMOCIÓN DE REFRESCOS </srai></template></category>
+<category><pattern>hay alguna promocion de refrescos </pattern><template><srai>¿HAY ALGUNA PROMOCIÓN DE REFRESCOS </srai></template></category>
+
+<category>
+    <pattern>¿Cuenta con promociones por temporada o días festivos </pattern>
+    <template>Actualmente no se cuenta con estas, pero se piensa elaborar algunas en un futuro.</template>
+</category>
+
+<category><pattern>Cuenta con promociones por temporadas o días festivos</pattern><template><srai>¿CUENTA CON PROMOCIONES POR TEMPORADA O DÍAS FESTIVOS </srai></template></category>
+<category><pattern>Cuenta con promociones por temporadas o dias festivos</pattern><template><srai>¿CUENTA CON PROMOCIONES POR TEMPORADA O DÍAS FESTIVOS </srai></template></category>
+<category><pattern>cuenta con promociones por temporadas o días festivos</pattern><template><srai>¿CUENTA CON PROMOCIONES POR TEMPORADA O DÍAS FESTIVOS </srai></template></category>
+<category><pattern>cuenta con promociones por temporadas o dias festivos</pattern><template><srai>¿CUENTA CON PROMOCIONES POR TEMPORADA O DÍAS FESTIVOS </srai></template></category>
+
+
+<category><pattern>Cuenta con promociones por temporada o días festivos</pattern><template><srai>¿CUENTA CON PROMOCIONES POR TEMPORADA O DÍAS FESTIVOS </srai></template></category>
+<category><pattern>Cuenta con promociones por temporada o dias festivos</pattern><template><srai>¿CUENTA CON PROMOCIONES POR TEMPORADA O DÍAS FESTIVOS </srai></template></category>
+<category><pattern>cuenta con promociones por temporada o días festivos</pattern><template><srai>¿CUENTA CON PROMOCIONES POR TEMPORADA O DÍAS FESTIVOS </srai></template></category>
+<category><pattern>cuenta con promociones por temporada o dias festivos</pattern><template><srai>¿CUENTA CON PROMOCIONES POR TEMPORADA O DÍAS FESTIVOS </srai></template></category>
+
+<category>
+    <pattern>¿Qué tan recomendables son las promociones </pattern>
+    <template>Los precios van acorde a la calidad del producto por lo que son las más recomendables.</template>
+</category>
+
+<category><pattern>que tan recomendables son las promociones</pattern><template><srai>¿QUÉ TAN RECOMENDABLES SON LAS PROMOCIONES </srai></template></category>
+<category><pattern>Que tan recomendables son las promociones</pattern><template><srai>¿QUÉ TAN RECOMENDABLES SON LAS PROMOCIONES </srai></template></category>
+<category><pattern>Qué tan recomendables son las promociones</pattern><template><srai>¿QUÉ TAN RECOMENDABLES SON LAS PROMOCIONES </srai></template></category>
+<category><pattern>qué tan recomendables son las promociones</pattern><template><srai>¿QUÉ TAN RECOMENDABLES SON LAS PROMOCIONES </srai></template></category>
+
+<category>
+    <pattern>¿Cuenta con promociones de cerveza que incluyan botanas </pattern>
+    <template>No se cuenta con dichas promociones debido a que las marcas no cuentan con una colaboración entre ellas.</template>
+</category>
+
+<category><pattern>Cuenta con promociones de cerveza que incluyan cerveza</pattern><template><srai>¿CUENTA CON PROMOCIONES DE CERVEZA QUE INCLUYAN BOTANAS </srai></template></category>
+
+
+<category><pattern>cuenta con promociones de cerveza que incluyan botanas</pattern><template><srai>¿CUENTA CON PROMOCIONES DE CERVEZA QUE INCLUYAN BOTANAS </srai></template></category>
+
+<category>
+    <pattern>Gracias</pattern>
+    <template>¿Hay algo más en lo que podamos ayudarle?</template>
+</category>
+
+<category><pattern>Muchas gracias</pattern><template><srai>GRACIAS</srai></template></category>
+<category><pattern>muchas gracias</pattern><template><srai>GRACIAS</srai></template></category>
+<category><pattern>Perfecto</pattern><template><srai>GRACIAS</srai></template></category>
+<category><pattern>perfecto</pattern><template><srai>GRACIAS</srai></template></category>
+<category><pattern>Okey</pattern><template><srai>GRACIAS</srai></template></category>
+<category><pattern>okey</pattern><template><srai>GRACIAS</srai></template></category>
+<category><pattern>ok</pattern><template><srai>GRACIAS</srai></template></category>
+<category><pattern>OK</pattern><template><srai>GRACIAS</srai></template></category>
+<category><pattern>Ok</pattern><template><srai>GRACIAS</srai></template></category>
+<category><pattern>Va</pattern><template><srai>GRACIAS</srai></template></category>
+<category><pattern>va</pattern><template><srai>GRACIAS</srai></template></category>
+<category><pattern>Entendido</pattern><template><srai>GRACIAS</srai></template></category>
+<category><pattern>entendido</pattern><template><srai>GRACIAS</srai></template></category>
+
+<category>
+    <pattern>No</pattern>
+    <template>Muchas gracias por confiar en La Esquina del sabor By "Six Los Cocos" para saciar tu hambre y luchar con el calor.  Te pedimos por favor evaluar nuestro servicio de ChatBot y una observación de lo que se podría mejorar. Apreciamos tu preferencia y hasta la próxima.</template>
+</category>
+
+<category><pattern>no</pattern><template><srai>NO</srai></template></category>
+<category><pattern>No muchas gracias</pattern><template><srai>NO</srai></template></category>
+<category><pattern>no muchas gracias</pattern><template><srai>NO</srai></template></category>
+
+<category>
+    <pattern>Sí</pattern>
+    <template>¿En qué otra cosa podemos ayudarle?</template>
+</category>
+
+<category><pattern>Claro</pattern><template><srai>SÍ</srai></template></category>
+<category><pattern>claro</pattern><template><srai>SÍ</srai></template></category>
+<category><pattern>Por supuesto</pattern><template><srai>SÍ</srai></template></category>
+<category><pattern>por supuesto</pattern><template><srai>SÍ</srai></template></category>
+<category><pattern>Porsupuesto</pattern><template><srai>SÍ</srai></template></category>
+<category><pattern>porsupuesto</pattern><template><srai>SÍ</srai></template></category>
+<category><pattern>Yes</pattern><template><srai>SÍ</srai></template></category>
+<category><pattern>yes</pattern><template><srai>SÍ</srai></template></category>
+
+
+<category><pattern>sí</pattern><template><srai>SÍ</srai></template></category>
+<category><pattern>Si</pattern><template><srai>SÍ</srai></template></category>
+<category><pattern>si</pattern><template><srai>SÍ</srai></template></category>
+
+<category>
+	<pattern>NO</pattern>
+	<template>Muchas gracias por confiar en La Esquina del sabor By "Six Los Cocos" para saciar tu hambre y luchar con el calor.  Te pedimos por favor evaluar nuestro servicio de ChatBot y una observación de lo que se podría mejorar. Apreciamos tu preferencia y hasta la próxima.</template>
+</category>
+
+<category>
+	<pattern>SI</pattern>
+	<template>¿En qué otra cosa podemos ayudarle?</template>
+</category>
+
+</aiml>
